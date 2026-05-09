@@ -65,5 +65,3 @@ main.py            — predictions and visualization
 testing.ipynb      — experiments and evaluation
 
 ---
-
-Built by a high school freshman · self-taught · Haverhill MA
